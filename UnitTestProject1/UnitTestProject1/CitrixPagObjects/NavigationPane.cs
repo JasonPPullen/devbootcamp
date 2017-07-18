@@ -23,19 +23,36 @@ namespace CitrixPageObjects
         #endregion
 
         #region folders submenu#endregion
+        public By PersonalFolders = By.XPath("//span[contains(text(), 'Personal Folders')]");
+        public By SharedFolders = By.XPath("//span[contains(text(), 'Shared Folders')]");
+        public By Favorites = By.XPath("//span[contains(text(), 'Favorites')]");
+        public By FileBox = By.XPath("//span[contains(text(), 'File Box')]");
+        public By RecycleBin = By.XPath("//span[contains(text(), 'Recycle Bin')]");
         #endregion
 
-        #region workflows submenu 
+        #region workflows submenu
+        public By FeedbackAndApproval = By.XPath("//span[contains(text(), 'Feedback and Approval')]");
         #endregion
 
         #region inbox submenus
+        public By Received = By.XPath("//span[contains(text(), 'Received')]");
+        public By Sent = By.XPath("//span[contains(text(), 'Sent')]");
+        public By Archived = By.XPath("//span[contains(text(), 'Archived')]");
         #endregion
 
         #region people submenus
         public By ManageUsersHome = By.XPath("//span[contains(text(),'Manage Users Home')]");
+        public By BrowseEmployees = By.XPath("//span[contains(text(),'Browse Employees')]");
+        public By BrowseClients = By.XPath("//span[contains(text(),'Browse Clients')]");
+        public By SharedAddressBook = By.XPath("//span[contains(text(),'Shared Address Book')]");
+        public By PersonalAddressBook = By.XPath("//span[contains(text(),'Personal Address Book')]");
+        public By DistributionGroup = By.XPath("//span[contains(text(),'Distribution Groups')]");
+        public By ResendWelcomeEmails = By.XPath("//span[contains(text(),'Resend Welcome Emails')]");
         #endregion
 
         #region settings submenu
+        public By PersonalSettings = By.XPath("//span[contains(text(),'Personal Settings')]");
+        public By AdminSettings = By.XPath("//span[contains(text(),'AdminSettings')]");
         #endregion
         public NavigationPane(IWebDriver driver, string uri): base(driver, uri)
         {
