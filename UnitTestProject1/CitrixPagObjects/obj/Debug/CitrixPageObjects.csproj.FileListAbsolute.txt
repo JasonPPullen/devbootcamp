@@ -6,3 +6,11 @@ C:\Users\jasonpu\Documents\Visual Studio 2015\Projects\UnitTestProject1\CitrixPa
 C:\Users\jasonpu\Documents\Visual Studio 2015\Projects\UnitTestProject1\CitrixPagObjects\bin\Debug\WebDriver.Support.xml
 C:\Users\jasonpu\Documents\Visual Studio 2015\Projects\UnitTestProject1\CitrixPagObjects\obj\Debug\CitrixPagObjects.dll
 C:\Users\jasonpu\Documents\Visual Studio 2015\Projects\UnitTestProject1\CitrixPagObjects\obj\Debug\CitrixPagObjects.pdb
+C:\Users\jasonpu\devbootcamp\UnitTestProject1\CitrixPagObjects\bin\Debug\CitrixPagObjects.dll
+C:\Users\jasonpu\devbootcamp\UnitTestProject1\CitrixPagObjects\bin\Debug\CitrixPagObjects.pdb
+C:\Users\jasonpu\devbootcamp\UnitTestProject1\CitrixPagObjects\bin\Debug\WebDriver.dll
+C:\Users\jasonpu\devbootcamp\UnitTestProject1\CitrixPagObjects\bin\Debug\WebDriver.Support.dll
+C:\Users\jasonpu\devbootcamp\UnitTestProject1\CitrixPagObjects\bin\Debug\WebDriver.xml
+C:\Users\jasonpu\devbootcamp\UnitTestProject1\CitrixPagObjects\bin\Debug\WebDriver.Support.xml
+C:\Users\jasonpu\devbootcamp\UnitTestProject1\CitrixPagObjects\obj\Debug\CitrixPagObjects.dll
+C:\Users\jasonpu\devbootcamp\UnitTestProject1\CitrixPagObjects\obj\Debug\CitrixPagObjects.pdb

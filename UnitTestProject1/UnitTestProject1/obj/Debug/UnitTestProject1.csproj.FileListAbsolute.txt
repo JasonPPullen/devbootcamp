@@ -11,3 +11,16 @@ C:\Users\jasonpu\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTest
 C:\Users\jasonpu\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\CitrixPagObjects.pdb
 C:\Users\jasonpu\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\nunit.framework.dll
 C:\Users\jasonpu\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\nunit.framework.xml
+C:\Users\jasonpu\devbootcamp\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\jasonpu\devbootcamp\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\jasonpu\devbootcamp\UnitTestProject1\UnitTestProject1\bin\Debug\CitrixPagObjects.dll
+C:\Users\jasonpu\devbootcamp\UnitTestProject1\UnitTestProject1\bin\Debug\nunit.framework.dll
+C:\Users\jasonpu\devbootcamp\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.dll
+C:\Users\jasonpu\devbootcamp\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+C:\Users\jasonpu\devbootcamp\UnitTestProject1\UnitTestProject1\bin\Debug\CitrixPagObjects.pdb
+C:\Users\jasonpu\devbootcamp\UnitTestProject1\UnitTestProject1\bin\Debug\nunit.framework.xml
+C:\Users\jasonpu\devbootcamp\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.xml
+C:\Users\jasonpu\devbootcamp\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.Support.xml
+C:\Users\jasonpu\devbootcamp\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\jasonpu\devbootcamp\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\jasonpu\devbootcamp\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
