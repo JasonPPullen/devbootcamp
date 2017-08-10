@@ -21,6 +21,7 @@ namespace CitrixPageObjects
         public By firstName = By.XPath("//label[contains(text(),'First Name:')]/following-sibling::div/child::input");
         public By lastName = By.XPath("//label[contains(text(),'Last Name:')]/following-sibling::div/child::input");
         public By createAndContine = By.XPath("//button[@type='submit']");
+        public By continueAnyway = By.XPath("//button[contains(text(),'Continue Anyway')]");
 
 
         public ManageUser(IWebDriver driver, string uri) : base(driver, uri)
@@ -43,7 +44,7 @@ namespace CitrixPageObjects
             _driver.FindElement(firstName).SendKeys("Kelly");
             _driver.FindElement(lastName).SendKeys("Leeman");
             _driver.FindElement(createAndContine).Click();
-
+            _driver.FindElement(continueAnyway).Click();
         }
 
     }
