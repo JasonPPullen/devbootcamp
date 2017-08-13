@@ -14,6 +14,7 @@ namespace UnitTestProject1
         static LoginPage loginPage;
         static DashboardPage dashboard;
         static ManageUser manageUser;
+        static DeleteEmployee deleteEmployee;
 
         [OneTimeSetUp]
         protected static void Init()
@@ -27,6 +28,7 @@ namespace UnitTestProject1
             loginPage = new LoginPage(driver);
             dashboard = new DashboardPage(driver);
             manageUser = new ManageUser(driver, "");
+            deleteEmployee = new DeleteEmployee(driver, "");
         }
 
         [OneTimeTearDown]
@@ -61,10 +63,11 @@ namespace UnitTestProject1
             manageUser.waitForPageLoaded();
             manageUser.createEmployee();
         }
-       /* [Test, Order(3)]
-        public void SearchFolder()
+
+        [Test, Order(4)]
+        public void removeEmployee()
         {
-            
-        } */
+            deleteEmployee.deleteEmployee();
+        } 
     }
 }
