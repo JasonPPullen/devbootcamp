@@ -31,11 +31,11 @@ namespace UnitTestProject1
             deleteEmployee = new DeleteEmployee(driver, "");
         }
 
-        [OneTimeTearDown]
+       /* [OneTimeTearDown]
         protected void Dispose()
         {
             driver.Quit();
-        }
+        }*/
 
         [Test, Order(1)]
         public void performLogin()
